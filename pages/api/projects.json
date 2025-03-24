@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "name": "NIKE REPLICA STORE",
+    "image": "https://imgur.com/kbGs6zH.png",
+    "description": "a full-stack e-commerce web application that mimics a Nike store. Built with Next.js, Express.js, and MongoDB, it offers product listings, user authentication",
+    "tags": ["next", "node", "mongodb", "tailwind", "react-query"],
+    "source_code": "https://github.com/abhishekgupta2026/nikeStoreApp-master",
+    "demo": "https://nike-store-app-abhishek-master.vercel.app/"
+  },
+  {
+    "id": 2,
+    "name": "SHOP-DRESSLY",
+    "image": "https://imgur.com/tAZotn3.png",
+    "description": "Dress Shop is a full-stack e-commerce web application for purchasing fashion apparel.",
+    "tags": ["react", "node", "mongodb", "redux", "NEXT.JS", "material-ui"],
+    "source_code": "https://github.com/abhishekgupta2026/shopdressly",
+    "demo": "https://dress-shop.vercel.app/"
+  },
+  {
+    "id": 3,
+    "name": "CRYPTO HUNTER",
+    "image": "https://imgur.com/8FFqaX8.png",
+    "description": "Crypto Hunter is a cryptocurrency tracking web app that provides real-time data on various digital assets. Built with React.js and powered by public crypto APIs",
+    "tags": ["react", "node", "mongodb", "redux", "Trading", "material-ui","Crypto APIs"],
+    "source_code": "https://github.com/abhishekgupta2026/cryptopricehunt",
+    "demo": "https://healthyways.herokuapp.com/"
+  }
+ 
+]
