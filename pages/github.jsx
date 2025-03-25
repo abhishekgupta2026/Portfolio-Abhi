@@ -13,10 +13,16 @@ const GithubPage = ({ repos, user }) => {
   };
 
   if (!user || !Array.isArray(repos)) {
-    return <a href="https://github.com/abhishekgupta2026" target="_blank" rel="noopener noreferrer">
-    ABHISHEK KUMAR GUPTA
-  </a>
-  
+    return (
+      <a 
+        href="https://github.com/abhishekgupta2026" 
+        target="_blank" 
+        rel="noopener noreferrer" 
+        style={{ fontSize: '24px', fontWeight: 'bold', color: '#ff5733', textAlign: 'center', display: 'block', margin: '20px 0' }}
+      >
+        ABHISHEK KUMAR GUPTA
+      </a>
+    );
   }
 
   return (
