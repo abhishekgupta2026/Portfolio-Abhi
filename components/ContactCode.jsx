@@ -3,8 +3,8 @@ import styles from '../styles/ContactCode.module.css';
 const contactItems = [
   {
     social: 'website',
-    link: 'abhishek.me',
-    href: 'https://www.linkedin.com/in/abhishek-gupta-328768250/',
+    link: 'Abhishek.me',
+    href: 'https://portfolio-abhishekgupta-blond.vercel.app/',
   },
   {
     social: 'email',
@@ -38,7 +38,7 @@ const contactItems = [
   },
   {
     social: 'DEV COMMUNITY',
-    link: 'ABHISHEK-GUPTA',
+    link: 'ABHISHEK GUPTA',
     href: 'https://dev.to/abhishek_kumargupta2',
   },
   
